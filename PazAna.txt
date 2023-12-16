@@ -1,5 +1,3 @@
-Cedula: 60123456
-Nombres: Ana Maria
-Apellidos: Paz Cruz
-Fec Nacimiento: 24/02/2000
-Tel: 300-123456
+Hola soy Ana Maria de apellido Paz Cruz soy de Pamplona
+mi cumpleaños es  24/02/2000 y me pueden 
+contactar al 300-123456
