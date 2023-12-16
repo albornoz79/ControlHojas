@@ -1,0 +1,3 @@
+Cedula: 60123456
+Nombres: Ana Maria
+Apellidos: Paz Cruz
